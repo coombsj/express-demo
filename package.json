@@ -4,6 +4,7 @@
   "description": "Demo Node.js application using Express for API",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "repository": {
